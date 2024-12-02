@@ -1,0 +1,11 @@
+.email-container {
+  max-width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.img-set{
+    object-fit: cover !important;
+    height: 700px;
+    width: 100%;
+}
